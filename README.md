@@ -26,4 +26,5 @@ Make sure it is executable:
 
 chmod +x austinws_task_master.py
 
-Do the same for any tests you are running
+Do the same for any tests you are running, 
+would reccomend doing it for the whole directory
